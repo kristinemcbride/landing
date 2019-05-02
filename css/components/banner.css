@@ -1,0 +1,20 @@
+.banner {
+  display: flex;
+  height: 590px;
+  align-items: center;
+  background-position: center;
+}
+
+.banner h1{
+  color: white;
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.banner p {
+  color: rgb(178, 179, 179);
+  font-family: Open Sans;
+  font-size: 20px;
+  opacity: 0.8;
+}
